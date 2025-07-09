@@ -12,7 +12,7 @@ Linked to my LinkedIn profile for recruiters interested in AI, Quantitative Fina
 3. Rainfall Prediction with ML Ensembles (Kaggle, 2024): Achieved 89.5% accuracy using ensemble methods for atmospheric forecasting, showcasing competitive ML skills.
   Skills: Machine Learning, Ensemble Methods, Predictive Modeling, Python, Kaggle.
 
-4 .Generative AI Application for Marketing Agencies (2024): Designed an AWS-based web app using Stable Diffusion and Claude via Amazon Bedrock, with role-based access and ethical content moderation.
+4. Generative AI Application for Marketing Agencies (2024): Designed an AWS-based web app using Stable Diffusion and Claude via Amazon Bedrock, with role-based access and ethical content moderation.
   Skills: Generative AI, Cloud Development, AWS, Stable Diffusion, AI Architecture.
 
 5. Computer Vision-Based Recommendation System (2024): Built a product recommendation system using VGG16 and cosine similarity on Fashion Product Images, achieving 100% accuracy in matching categories, enhanced by metadata.
