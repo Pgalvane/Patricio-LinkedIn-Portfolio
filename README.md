@@ -10,7 +10,7 @@ This repository serves as a comprehensive showcase of my practical projects in A
     * **Shark Radar (Pine Script):** A proprietary indicator for identifying real-time liquidation zones in BTC Perpetual contracts, built to overcome Pine Script's graphical limitations.
     * **Graphic Crypto Scanner (Pine Script):** A multi-timeframe scanner capable of simultaneously monitoring up to 120 crypto tokens, effectively bypassing Pine Script's script limitations for comprehensive market overview.
     * **Cloud Infrastructure Migration for Quant Trading:** Designed and executed a GCP migration roadmap, achieving an **85% reduction in backtesting time** and **40% cost savings** through automated and scalable solutions for an algorithmic trading startup.
-    * **Novel Hurst Exponent Estimation Method:** Developed and validated a unique Hurst exponent estimation technique, applied to and confirmed effective within crypto markets for enhanced time series analysis.
+    * **Novel Hurst Exponent Estimation Method:** Developed and validated a unique Hurst exponent estimation technique, applied to and confirmed effective within crypto markets for enhanced time series analysis. (ONLY UNDER NDA).
 
 ### **2. `AI-ML-Recommendation-Systems`**
 * **Overview:** Developed and compared various recommendation engines, from image-based product suggestions to comprehensive movie recommendation frameworks.
@@ -44,9 +44,6 @@ This repository serves as a comprehensive showcase of my practical projects in A
 * **Key Project:**
     * **Housing Price Prediction with Neural Networks:** Implemented and optimized neural network models for predicting housing prices (e.g., using the California Housing dataset), showcasing expertise in deep learning for regression, model architecture, and performance evaluation.
 
-### **8. `Time-Series-Analysis`**
-* **Overview:** Dedicated to advanced methodologies and tools for analyzing time-dependent data, crucial for understanding dynamic systems.
-* **Key Project:**
-    * **Novel Hurst Exponent Estimation Method:** Developed and validated a unique Hurst exponent estimation technique, applied to and confirmed effective within crypto markets for enhanced understanding of time series persistence and fractality.
+
 
 ---
