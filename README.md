@@ -15,7 +15,7 @@ This repository serves as a comprehensive showcase of my practical projects in A
 ### **2. `AI-ML-Recommendation-Systems`**
 * **Overview:** Developed and compared various recommendation engines, from image-based product suggestions to comprehensive movie recommendation frameworks.
 * **Key Projects:**
-    * **Computer Vision-Based Product Recommendation System:** Developed a system achieving **100% precision** in visual product recommendations by leveraging VGG16 for image feature extraction and cosine similarity, with enhanced precision via metadata filtering.
+    * **Computer Vision-Based Product Recommendation System:** Developed a system achieving **100% precision** in visual product recommendations using VGG16 and cosine similarity, enhanced by metadata filtering.
     * **Movie Recommendation System: Comparative Analysis:** Performed a detailed comparison of recommendation models (including Cosine Similarity, SVD, Surprise, Light-FM, and TensorFlow Recommenders) on the MovieLens 1M dataset, identifying optimal frameworks for performance and scalability.
 
 ### **3. `Generative-AI-Projects`**
@@ -33,3 +33,20 @@ This repository serves as a comprehensive showcase of my practical projects in A
 * **Overview:** Highlights expertise in predictive modeling, feature engineering, and ensemble methods through participation in data science competitions.
 * **Key Project:**
     * **Rain Prediction Model (Kaggle Competition):** Achieved top performance in a Kaggle competition by developing and ensembling various Machine Learning models (Random Forest, Gradient Boosting, XGBoost, LightGBM, CatBoost), showcasing strong skills in hyperparameter tuning and cross-validation.
+
+### **6. `Image-Classification-Convolutional`**
+* **Overview:** Focuses on the fundamental application and implementation of Convolutional Neural Networks (CNNs) for diverse image classification tasks.
+* **Key Project:**
+    * **General Image Classification:** Developed and evaluated CNN models to accurately classify images across various categories, demonstrating core principles of CNN architecture design, training, and performance optimization.
+
+### **7. `NN-Housing-Price-Prediction`**
+* **Overview:** Explores the application of Neural Networks for advanced regression problems, specifically predicting continuous values like housing prices.
+* **Key Project:**
+    * **Housing Price Prediction with Neural Networks:** Implemented and optimized neural network models for predicting housing prices (e.g., using the California Housing dataset), showcasing expertise in deep learning for regression, model architecture, and performance evaluation.
+
+### **8. `Time-Series-Analysis`**
+* **Overview:** Dedicated to advanced methodologies and tools for analyzing time-dependent data, crucial for understanding dynamic systems.
+* **Key Project:**
+    * **Novel Hurst Exponent Estimation Method:** Developed and validated a unique Hurst exponent estimation technique, applied to and confirmed effective within crypto markets for enhanced understanding of time series persistence and fractality.
+
+---
