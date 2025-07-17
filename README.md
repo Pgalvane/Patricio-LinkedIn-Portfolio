@@ -8,7 +8,7 @@ This repository serves as a comprehensive showcase of my practical projects in A
 * **Overview:** Contains advanced tools, indicators, and infrastructure solutions for quantitative trading and in-depth market analysis, primarily within digital assets.
 * **Key Projects:**
     * **Shark Radar (Pine Script):** A proprietary indicator for identifying real-time liquidation zones in BTC Perpetual contracts, built to overcome Pine Script's graphical limitations.
-    * **Graphic Crypto Scanner (Pine Script):** A multi-timeframe scanner capable of simultaneously monitoring up to 120 crypto tokens, effectively bypassing Pine Script's script limitations for comprehensive market overview.
+    * **Graphic Crypto Screener (Pine Script):** A multi-timeframe scanner capable of simultaneously monitoring up to 120 crypto tokens, effectively bypassing Pine Script's script limitations for comprehensive market overview.
     * **Cloud Infrastructure Migration for Quant Trading:** Designed and executed a GCP migration roadmap, achieving an **85% reduction in backtesting time** and **40% cost savings** through automated and scalable solutions for an algorithmic trading startup.
     * **Novel Hurst Exponent Estimation Method:** Developed and validated a unique Hurst exponent estimation technique, applied to and confirmed effective within crypto markets for enhanced time series analysis. (ONLY UNDER NDA).
 
